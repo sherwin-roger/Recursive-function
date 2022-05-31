@@ -3,8 +3,11 @@
 ##Aim: To write a C# program to reverse a number using recursive function.
 
 ##Algorithm:
-1)create a class and then declarea main function
-2)
+1)create a class and then declare a main function
+2)Inside the class declare a recursive function to find the reverse of a number
+3)Pass the number and execute it until it is less than 1
+4)if the number is less than 1 then it will stop executing itself again and again
+5) Until then print the passed number.
 
 ##Program:
 ```
